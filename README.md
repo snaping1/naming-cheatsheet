@@ -5,7 +5,7 @@
 </p>
 
 # Naming cheatsheet
-# Naming cheatsheet
+# Naming cheatsheet(name)
 # name
 
 - [English language](#english-language)
