@@ -5,6 +5,7 @@
 </p>
 
 # Naming cheatsheet
+# Naming cheatsheet
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
