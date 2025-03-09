@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Naming cheatsheet name
+# Naming cheatsheet (name)
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
