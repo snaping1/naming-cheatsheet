@@ -4,9 +4,12 @@
   </a>
 </p>
 
-# Naming cheatsheet
-# Naming cheatsheet(name)
-# name
+<<<<<<< HEAD
+# Naming cheatsheet_(name)_
+
+=======
+# Naming cheatsheet _(name)_
+>>>>>>> branch1
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
